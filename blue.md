@@ -78,10 +78,50 @@ Una vez convertida la sesión hay que seleccionarla para poder utilizar la líne
 
 ![shell](/img/blue16.png)
 
+Seleccionar la sesión en la que se encuentra el *Meterpreter*.
+
+![shell2](/img/blue17.png)
+
 Puede verse el usuario con el que se ha accedido y el registro de procesos.
 
-![whoami](/img/blue17.png)
+![shell3](/img/blue18.png)
 
-![tasklist](/img/blue18.png)
+![meterpreter](/img/blue19.png)
 
+Desde la consola *meterpreter* ejecutar el comando *hashdump*.
 
+![meterpreter2](/img/blue20.png)
+
+*Try Hack Me*  
+![THM7](/img/blue21.png)
+
+Una vez obtenido el hash de la contraseña, se debe copiar en un txt y descifrar la contraseña verdadera con la herramienta *John* de la siguiente manera:
+
+![contraseña](/img/blue22.png)
+
+*Try Hack Me*  
+![THM8](/img/blue23.png)
+
+A continuación hay que navegar entre las carpetas para encontrar las flags:
++ Flag1:
+
+![flag1](/img/blue24.png)
+
+*Try Hack Me*  
+![THM9](/img/blue25.png)
+
++ Flag 2:
+
+![flag2](/img/blue26.png)
+
+![flag2](/img/blue27.png)
+
+*Try Hack Me*  
+![THM10](/img/blue28.png)
+
++ Flag 3:
+
+![flag3](/img/blue29.png)
+
+*Try Hack Me*  
+![THM11](/img/blue30.png)
